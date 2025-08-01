@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "morescp:science_zone_concrete_border"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "morescp:blocks/science_zone_concrete_border"
+}

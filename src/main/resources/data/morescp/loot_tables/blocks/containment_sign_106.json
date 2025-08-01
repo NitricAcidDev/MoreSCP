@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "morescp:containment_sign_106"
+				}
+			],
+			"rolls": 1.0
+		}
+	],
+	"random_sequence": "morescp:blocks/containment_sign_106"
+}

@@ -1,0 +1,52 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "containment_sign",
+	"textures": {
+		"0": "morescp:block/scp_containment_sign_173",
+		"1": "morescp:block/border",
+		"particle": "morescp:block/scp_containment_sign_173"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 1],
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 0.75, 0.75], "texture": "#1"},
+				"east": {"uv": [1.25, 0.25, 1.75, 0.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#1"},
+				"up": {"uv": [4.25, 0.25, 4.75, 0.75], "texture": "#1"},
+				"down": {"uv": [5.25, 0.25, 5.75, 0.75], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 3.25],
+			"scale": [0.42, 0.42, 0.42]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 3.25],
+			"scale": [0.42, 0.42, 0.42]
+		},
+		"firstperson_righthand": {
+			"translation": [7, 2.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [7, 2.25, 0]
+		},
+		"ground": {
+			"translation": [0, 6.25, 8]
+		},
+		"head": {
+			"rotation": [-180, 0, -180],
+			"translation": [0, 0, -14]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -6.75]
+		}
+	}
+}

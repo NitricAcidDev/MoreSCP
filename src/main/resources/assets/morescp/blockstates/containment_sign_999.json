@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "morescp:block/containment_sign_999", "y": 180 },
+		"facing=east": { "model": "morescp:block/containment_sign_999", "y": 270 },
+		"facing=south": { "model": "morescp:block/containment_sign_999" },
+		"facing=west": { "model": "morescp:block/containment_sign_999", "y": 90 }
+	}
+}

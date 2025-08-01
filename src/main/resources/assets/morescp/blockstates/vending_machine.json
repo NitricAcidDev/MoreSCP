@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,half=lower": { "model": "morescp:block/vending_machine_bottom", "y": 180 },
+    "facing=south,half=lower": { "model": "morescp:block/vending_machine_bottom" },
+    "facing=west,half=lower": { "model": "morescp:block/vending_machine_bottom", "y": 90 },
+    "facing=east,half=lower": { "model": "morescp:block/vending_machine_bottom", "y": 270 },
+    "facing=north,half=upper": { "model": "morescp:block/vending_machine_top", "y": 180 },
+    "facing=south,half=upper": { "model": "morescp:block/vending_machine_top" },
+    "facing=west,half=upper": { "model": "morescp:block/vending_machine_top", "y": 90 },
+    "facing=east,half=upper": { "model": "morescp:block/vending_machine_top", "y": 270 }
+  }
+}

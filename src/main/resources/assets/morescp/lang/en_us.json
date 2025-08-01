@@ -1,0 +1,18 @@
+{
+  "creativetab.more_scp_tab": "More SCP",
+
+  "block.morescp.science_zone_concrete_border" : "Science Zone Concrete Border",
+  "block.morescp.science_zone_concrete" : "Science Zone Concrete",
+  "block.morescp.science_zone_concrete_striped" : "Science Zone Concrete Striped",
+  "block.morescp.training_zone_concrete_border" : "Training Zone Concrete Border",
+  "block.morescp.training_zone_concrete" : "Training Zone Concrete",
+  "block.morescp.training_zone_concrete_striped" : "Training Zone Concrete Striped",
+  "block.morescp.home_zone_concrete_border" : "Home Zone Concrete Border",
+  "block.morescp.home_zone_concrete" : "Home Zone Concrete",
+  "block.morescp.home_zone_concrete_striped" : "Home Zone Concrete Striped",
+  "block.morescp.vending_machine" : "Vending Machine",
+  "block.morescp.containment_sign_173" : "SCP 173 Containment Sign",
+  "block.morescp.containment_sign_096" : "SCP 096 Containment Sign",
+  "block.morescp.containment_sign_999" : "SCP 999 Containment Sign",
+  "block.morescp.containment_sign_106" : "SCP 106 Containment Sign"
+}
